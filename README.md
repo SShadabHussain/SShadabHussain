@@ -1,3 +1,4 @@
+<img align="center" src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Convolutional_Neural_Network_Tutorial.jpg" width="1200" height="300">
 <h1 align="center">Hi there 👋, I'm Syed Shadab Hussain</h1>
 <h3 align="center">A passionate Machine Learning and Backend developer from India</h3>
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  width="400" height="300">
