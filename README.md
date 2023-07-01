@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Machine Learning and Backend developer from India</h3>
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  width="400" height="300">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sshadabhussain&label=Profile%20views&color=0e75b6&style=flat" alt="sshadabhussain" /> </p>
-- 🔭 I’m currently working on Data Analysis and NLP
-- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
+<div>- 🔭 I’m currently working on Data Analysis and NLP</div>
+<div>- 🌱 I’m currently learning Artificial Intelligence and Machine Learning</div>
 
 - 💬 Ask me about <div> **Python </div> <div>  NLP </div> <div> AI-ML </div> <div> Backend Development </div> <div> Problem Solving </div> <div> DSA**</div>
 
