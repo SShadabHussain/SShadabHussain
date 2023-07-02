@@ -1,11 +1,7 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="40px">
-<!--<img align="center" src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Convolutional_Neural_Network_Tutorial.jpg" width="1200" height="300">
+
 <div align="center">
-<img align="center" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/a85c0dcdcc774c6f340b07518363d6fb.gif" width="400" height="300">
-</div>
--->
-<div align="center">
-<img " src="https://cdn.dribbble.com/users/4467980/screenshots/10066515/media/a85f92e2e28b742b3e1c168b2090deb1.png?compress=1&resize=1000x750&vertical=center" width="700">
+  <img align="center" src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Convolutional_Neural_Network_Tutorial.jpg" width="1200" height="300">
 </div>
 <h1 align="center"> I'm Syed Shadab Hussain</h1>
 <h3 align="center">A passionate Machine Learning and Backend developer from India</h3>
