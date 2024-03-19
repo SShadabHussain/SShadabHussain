@@ -7,20 +7,21 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sshadabhussain&label=Profile%20views&color=0e75b6&style=flat" alt="sshadabhussain" /> </p>
 <em>
   
-<div>- 🔭 I’m currently working on Data Science Projects including Computer Vision and NLP</div>
-<div>- 🌱 I’m currently learning Artificial Intelligence and Machine Learning</div>
+<div>I’m currently working on Data Science Projects including Computer Vision, LLMs and NLP </div>
+<div>Building and Playing with Deep Learning and Machine Learning models</div>
 
 <div>Ask me about :</div><br>
 <div> Computer Vision </div>
+<div> Retrieval augmented generation </div>
 <div>  NLP </div> 
 <div> AI-ML Algorithms </div> 
-<div> Backend Development 
-</div> <div> Data Structures </div>
+<div> Gen AI </div> 
+
 </em>
 
 <hr>
 <div align="Center">
-<h3> Competitive Coder | Data Scientist | Backend Developer </h3>
+<h3> Competitive Coder | Data Scientist </h3>
 
 
 <p>
