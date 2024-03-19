@@ -14,6 +14,9 @@
 <div> Computer Vision </div>
 <div> Retrieval augmented generation </div>
 <div>  NLP </div> 
+<div> LangChain </div> 
+<div> Hugging Face </div> 
+<div> Data Mining/Cleaning/Pipelines/Visualization </div>
 <div> AI-ML Algorithms </div> 
 <div> Gen AI </div> 
 
