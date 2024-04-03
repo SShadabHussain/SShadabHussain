@@ -24,7 +24,7 @@
 
 <hr>
 <div align="Center">
-<h3> Competitive Coder | Data Scientist </h3>
+<h3> Data Scientist </h3>
 
 
 <p>
